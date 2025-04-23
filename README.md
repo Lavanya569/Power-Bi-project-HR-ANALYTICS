@@ -13,7 +13,7 @@ Average Tenure: 7 years
 # Attrition Breakdown:
 By Age Groups: Most attrition occurs in the 26–35 and 36–45 age brackets.
 By Gender: Higher attrition among males (144) than females (80).
-By Salary Bands: Employees earning under $5K show the highest attrition.
+By Salary Bands: Employees earning under 5K show the highest attrition.
 By Education Fields: Life Sciences and Medical backgrounds have the highest turnover.
 By Job Role: Highest attrition observed in Laboratory Technicians, Sales Executives, and Research Scientists.
 
