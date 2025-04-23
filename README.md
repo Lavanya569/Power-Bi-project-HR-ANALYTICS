@@ -7,7 +7,7 @@ Attrition Count & Rate: 238 employees, reflecting a 16.1% attrition rate.
 
 # Demographics:
 Average Age: 37 years
-Average Salary: $6.5K
+Average Salary: 6.5K
 Average Tenure: 7 years
 
 # Attrition Breakdown:
